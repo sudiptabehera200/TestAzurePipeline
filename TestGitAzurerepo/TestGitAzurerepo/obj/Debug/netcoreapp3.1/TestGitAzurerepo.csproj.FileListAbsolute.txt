@@ -1,0 +1,12 @@
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.exe
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.deps.json
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.runtimeconfig.json
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.runtimeconfig.dev.json
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.dll
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\bin\Debug\netcoreapp3.1\TestGitAzurerepo.pdb
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.csproj.CoreCompileInputs.cache
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.AssemblyInfoInputs.cache
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.AssemblyInfo.cs
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.dll
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.pdb
+E:\Tutorials\coreAzureTutorial\TestAzurePipeline\TestGitAzurerepo\TestGitAzurerepo\obj\Debug\netcoreapp3.1\TestGitAzurerepo.genruntimeconfig.cache
